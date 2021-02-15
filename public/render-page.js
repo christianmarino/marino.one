@@ -114,7 +114,7 @@ var plugins = [{
     "plugins": [],
     "name": "Resume",
     "short_name": "Landing",
-    "start_url": "/christian-resume/",
+    "start_url": "/",
     "background_color": "#663399",
     "theme_color": "#663399",
     "display": "standalone",
