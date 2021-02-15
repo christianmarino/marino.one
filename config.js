@@ -18,12 +18,12 @@ module.exports = {
       url: 'mailto:contact@marino.one',
     },
     {
-      icon: 'fa fa-keybase',
+      icon: 'fab fa-keybase',
       name: 'Keybase',
       url: 'https://keybase.io/christianmarino',
     },
     {
-      icon: 'fa fa-github',
+      icon: 'fab fa-github',
       name: 'Github',
       url: 'https://github.com/ChristianMarino',
     },
