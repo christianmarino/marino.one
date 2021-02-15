@@ -28,6 +28,11 @@ module.exports = {
       url: 'https://github.com/ChristianMarino',
     },
     {
+      icon: 'fab fa-linkedin',
+      name: 'LinkedIn',
+      url: 'https://www.linkedin.com/in/christian-marino-480117145/',
+    },
+    {
       icon: 'fa fa-key',
       name: 'GPG Key',
       url: 'https://marino.one/ChristianMarino.asc',
