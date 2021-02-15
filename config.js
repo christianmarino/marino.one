@@ -35,7 +35,7 @@ module.exports = {
     {
       icon: 'fa fa-key',
       name: 'GPG Key',
-      url: 'https://marino.one/ChristianMarino.asc',
+      url: 'https://raw.githubusercontent.com/christianmarino/marino.one/master/public/ChristianMarino.asc',
     },
   ],
   email: 'contact@marino.one',
